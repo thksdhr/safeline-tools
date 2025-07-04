@@ -1,0 +1,29 @@
+{
+  "Token": "J0rZh6csro9PmvhSfFxNsCwbfu3Foe3K",
+  "Host": "https://192.168.5.205:9443",
+  "UpdateIPGroup": [
+    {
+      "GroupID": 3,
+      "Url": "https://ispip.clang.cn/all_cn.txt",
+      "Tips": "苍狼山庄-ISP-IP-TXT"
+    },
+    {
+      "GroupID": 8,
+      "Url": "https://ispip.clang.cn/all_cn_cidr.txt",
+      "Tips": "苍狼山庄-ISP-IP-CIDR-TXT"
+    },
+    {
+      "GroupID": 7,
+      "Url": "https://ispip.clang.cn/all_cn_ipv6.txt",
+      "Tips": "苍狼山庄-ISP-IPV6-TXT"
+    }
+  ],
+  "UpdateCerts": [
+    {
+      "CertID": 1,
+      "CertType": 2,
+      "PublicKeyUrl": "http://192.168.5.205:789/certs/jcjgdj.cn/jcjgdj.cn.pem",
+      "PrivateKeyUrl": "http://192.168.5.205:789/certs/jcjgdj.cn/jcjgdj.cn.key"
+    }
+  ]
+}
